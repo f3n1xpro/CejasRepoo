@@ -52,10 +52,6 @@ public class LoginStep extends BaseUtil {
 
 
         }
-    }
-
-    @Then("^I should see the userform page$")
-    public void iShouldSeeTheUserformPage() throws Throwable {
 
     }
 
